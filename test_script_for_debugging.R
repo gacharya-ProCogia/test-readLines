@@ -20,3 +20,4 @@ log_and_divide <- function(x, y){
 #run function
 # print(log_and_divide(10,2))
 print(log_and_divide(10))
+
