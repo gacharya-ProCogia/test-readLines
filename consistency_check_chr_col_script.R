@@ -1,0 +1,5 @@
+col1 = c(rep('college', 3), rep('university', 3), rep('highschool', 4))
+col2 = c('Daniel', 'DAniel', 'daniel', 'daNiel', 'danieL', 'Sam', 'sAm', 'saM', 'Marry', 'marry')
+col3 = seq(1,10)
+data_temp = cbind(col1, col2, col3)
+data_temp =as.data.frame(data_temp)
